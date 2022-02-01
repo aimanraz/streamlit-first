@@ -1,4 +1,4 @@
 # End-to-End Machine Learning Project
 Create an interactive web application to create more interactive way with data science project.
 
-## All of the content will be uploaded soon.
+## All of the content will be uploaded at 3/1/2022.
