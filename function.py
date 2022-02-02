@@ -158,31 +158,3 @@ def viz(data):
 			else:
 				st.warning("Please choose more than 1 attribute")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#
